@@ -1,10 +1,10 @@
 > **Revolutionary Privacy Platform Powered by Zama FHEVM**
 
-SecureAppMax leverages Zama's Fully Homomorphic Encryption Virtual Machine (FHEVM) to enable computation on encrypted data without decryption. Your data remains private throughout processing.
+ShadowBox  leverages Zama's Fully Homomorphic Encryption Virtual Machine (FHEVM) to enable computation on encrypted data without decryption. Your data remains private throughout processing.
 
 ---
 
-## Why SecureAppMax?
+## Why ShadowBox ?
 
 **The Problem**: Traditional applications require data decryption for processing, exposing sensitive information.
 
@@ -133,8 +133,8 @@ Build dApps that respect user privacy by default.
 
 ```bash
 # Clone repository
-git clone https://github.com/mekelangelo/SecureAppMax.git
-cd SecureAppMax
+git clone https://github.com/mekelangelo/ShadowBox.git
+cd ShadowBox 
 
 # Install dependencies
 npm install
@@ -215,9 +215,9 @@ Built with [Zama FHEVM](https://github.com/zama-ai/fhevm) - Bringing privacy to 
 
 ---
 
-**Repository**: https://github.com/mekelangelo/SecureAppMax  
-**Issues**: https://github.com/mekelangelo/SecureAppMax/issues  
-**Discussions**: https://github.com/mekelangelo/SecureAppMax/discussions
+**Repository**: https://github.com/mekelangelo/ShadowBox   
+**Issues**: https://github.com/mekelangelo/ShadowBox/issues  
+**Discussions**: https://github.com/mekelangelo/ShadowBox/discussions
 
 ---
 
